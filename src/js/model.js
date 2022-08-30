@@ -1,5 +1,5 @@
 import { async } from "regenerator-runtime";
-import { API_URL } from './config.js';
+import { API_URL } from "./config.js";
 import { getJSON } from "./helper.js";
 let ts6133 = async; // console.log( async ); // console.log( API_URL ); //( for ts6133 problem )
 
